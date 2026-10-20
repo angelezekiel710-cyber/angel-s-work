@@ -2,7 +2,7 @@ overall_score = int(300)
 number_of_subjects = int(3)
 
 studets_name = input("Enter your name: ")
-students_age = input("Enter your age: ")
+students_age = int(input("Enter your age: "))
 mathematics = int(input("Enter score: "))
 english = int(input("Enter score: "))
 computer_science = int(input("Enter score: "))
